@@ -1,1 +1,1 @@
-This reprository indlucdes a not complete list of FLO-SIC relevant articles. 
+This reprository includes a not complete list of FLO-SIC relevant articles. 
